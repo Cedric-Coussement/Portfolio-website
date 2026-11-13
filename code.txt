@@ -1,0 +1,18 @@
+npx @tailwindcss/cli -i css/input.css -o css/tailwind.css --watch --minify
+<h1 class="bg-(--kleur-ap) font-(family-name:--font-kop) text-white">Jan Peeters</h1>
+bg-[url(../assets/images/foto.jpg)]
+
+4.2 De beschrijving
+De <meta name="description"> is de grijze tekst onder de titel in een zoekresultaat:
+<meta name="description" content="Portfolio van Jan Peeters, student systeem- en
+netwerkbeheer aan AP Hogeschool. Bekijk mijn projecten en neem contact op.">
+Schrijf één of twee zinnen van ongeveer 150 tekens. Ze moeten iemand overtuigen om te klikken. Een
+zoekmachine kiest soms zelf een andere tekst, maar een goede beschrijving helpt.
+
+4.6 Doe dit voor al je pagina's
+[ ] elke pagina heeft een eigen <title>
+[ ] elke pagina heeft een <meta name="description">
+[ ] <html lang="nl-BE"> staat op elke pagina
+[ ] elke afbeelding heeft een alt
+[ ] je bestandsnamen zijn in kleine letters en zeggen iets
+[ ] elke pagina heeft precies één <h1
