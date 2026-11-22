@@ -1,8 +1,9 @@
-
 body{font-family:"Public Sans" sans-serif;}
 
 :root {
---kleur-ap: #e6007e;
+--bg-leren: #f97316;
+--tekst-leren: white;
+--bg-ervaring: #1e40af;
 --font-kop: "Poppins", sans-serif;
 }
 
